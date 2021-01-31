@@ -1,0 +1,21 @@
+#bal {
+    background-color: #b9bafd;
+    color: #0e127d;
+    border: 2px solid  #b9bafd;
+    box-shadow: 0.5px 1px;
+    border: 2px solid #b9bafd;
+}
+#strong {
+    background-color: #9b9cfd;
+    color: #060a77;
+    border: 2px solid #9b9cfd;
+    border-radius: 5px;
+    box-shadow: 0.5px 1px;
+    font-weight:bold;
+}
+#elol {
+    text-align: center;
+}
+#kir {
+    background-color: #d6d6fe ;
+}
