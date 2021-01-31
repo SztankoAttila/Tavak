@@ -15,7 +15,15 @@
 }
 #elol {
     text-align: center;
+    color: #060a77;
+    box-shadow: 0.5px 1px;
+    border: 2px solid #9b9bd4;
 }
 #kir {
     background-color: #d6d6fe ;
+}
+#job {
+    background-color: #d6d6d6;
+    box-shadow: 0.5px 1px;
+    border: 2px solid #d6d6d6;
 }
